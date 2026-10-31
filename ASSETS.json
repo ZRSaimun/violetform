@@ -1,0 +1,72 @@
+[
+  {
+    "filename": "snow.jpg",
+    "source_url": "https://unsplash.com/photos/snow-covered-mountain--rIC_DZaUW8",
+    "download_url": "https://images.unsplash.com/photo-1456940769015-a80506d591da?auto=format&fit=max&w=3840&q=90",
+    "author": "Austin Smart",
+    "licence": "Unsplash License",
+    "licence_url": "https://unsplash.com/license",
+    "verification": "Individual source page explicitly states Free to use under Unsplash License",
+    "file_info": "/workspace/scratch/cinematic-assets/snow.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 3840x5120, components 3"
+  },
+  {
+    "filename": "polo.jpg",
+    "source_url": "https://unsplash.com/photos/three-mens-polo-shirts-on-a-white-background-9vB4GAGhCIQ",
+    "download_url": "https://images.unsplash.com/photo-1720514496478-78ae7a0a1173?auto=format&fit=max&w=3840&q=90",
+    "author": "TuanAnh Blue",
+    "licence": "Unsplash License",
+    "licence_url": "https://unsplash.com/license",
+    "verification": "Individual source page explicitly states Free to use under Unsplash License",
+    "file_info": "/workspace/scratch/cinematic-assets/polo.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 2592x3888, components 3"
+  },
+  {
+    "filename": "burger.jpg",
+    "source_url": "https://unsplash.com/photos/cooked-burger-ICA6PtRBYLw",
+    "download_url": "https://images.unsplash.com/photo-1555554317-766200eb80d6?auto=format&fit=max&w=3840&q=90",
+    "author": "Mae Mu",
+    "licence": "Unsplash License",
+    "licence_url": "https://unsplash.com/license",
+    "verification": "Individual source page explicitly states Free to use under Unsplash License",
+    "file_info": "/workspace/scratch/cinematic-assets/burger.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 2720x3400, components 3"
+  },
+  {
+    "filename": "forest.jpg",
+    "source_url": "https://unsplash.com/photos/a-tall-tree-with-moss-growing-on-it-0hvmAoYkQYM",
+    "download_url": "https://images.unsplash.com/photo-1436304107277-840eaea3e18a?auto=format&fit=max&w=3840&q=90",
+    "author": "Jamie Taylor",
+    "licence": "Unsplash License",
+    "licence_url": "https://unsplash.com/license",
+    "verification": "Individual source page explicitly states Free to use under Unsplash License",
+    "file_info": "/workspace/scratch/cinematic-assets/forest.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 3265x4898, components 3"
+  },
+  {
+    "filename": "purple.jpg",
+    "source_url": "https://unsplash.com/photos/abstract-colorful-wavy-and-distorted-purple-design-e1Ma_JRmaUE",
+    "download_url": "https://images.unsplash.com/photo-1752079914913-77279de1ae6a?auto=format&fit=max&w=3840&q=90",
+    "author": "Logan Voss",
+    "licence": "Unsplash License",
+    "licence_url": "https://unsplash.com/license",
+    "verification": "Individual source page explicitly states Free to use under Unsplash License",
+    "file_info": "/workspace/scratch/cinematic-assets/purple.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 3840x2160, components 3"
+  },
+  {
+    "filename": "car.jpg",
+    "source_url": "https://unsplash.com/photos/a-sleek-black-sports-car-parked-outdoors-EwpQLPWgqE4",
+    "download_url": "https://images.unsplash.com/photo-1764774630551-86e88317a780?auto=format&fit=max&w=3840&q=90",
+    "author": "Samuel Hagger",
+    "licence": "Unsplash License",
+    "licence_url": "https://unsplash.com/license",
+    "verification": "Individual source page explicitly states Free to use under Unsplash License",
+    "file_info": "/workspace/scratch/cinematic-assets/car.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 3840x1920, components 3"
+  },
+  {
+    "filename": "office.jpg",
+    "source_url": "https://unsplash.com/photos/modern-office-interior-with-glass-walls-and-plants-B74lBYC3PXI",
+    "download_url": "https://images.unsplash.com/photo-1765371514743-45bd8e6c0a28?auto=format&fit=max&w=3840&q=90",
+    "author": "Caroline Badran",
+    "licence": "Unsplash License",
+    "licence_url": "https://unsplash.com/license",
+    "verification": "Individual source page explicitly states Free to use under Unsplash License",
+    "file_info": "/workspace/scratch/cinematic-assets/office.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, progressive, precision 8, 3840x5553, components 3"
+  }
+]
