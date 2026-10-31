@@ -1,27 +1,27 @@
-# VioletForm
+# VioletForm — reference reconstruction
 
-An original figure interactive website concept built for TripBhai.
+The main website now reproduces the visible sequence from **Immersive agency — reference study**, replacing the independently illustrated concept on the main route.
 
-## Experience
+## Current experience
 
-A speculative digital studio brought to life through a metallic figure, orbiting forms and changing light. Explore identity, interaction and expression as separate creative directions.
+- Scroll forward/backward through the recorded scenes.
+- Chapter navigation, keyboard step controls, range slider, restart and pause.
+- Reduced-motion support, loading/error state and source credits.
+- No WebGL requirement for the recorded visual reconstruction.
 
-- Scroll-linked object assembly and camera composition.
-- Three named chapters with keyboard-accessible buttons.
-- Responsive layouts, pause control and reduced-motion support.
-- Local original SVG artwork remains available if WebGL cannot start.
-- No backend, payments, tracking, external fonts or API keys.
+This is a **visual reconstruction of the recording, not the original application**. Recorded on-screen buttons are part of the image; native scene navigation is provided separately. Unseen page content, original 3D models, checkout and private source code were not recovered.
+
+Source: https://www.facebook.com/reel/1441081254434227
+Creator: Jerry the Web Dev
+
+The source records a screen. Cropping, perspective, motion blur and clipped page edges remain. This reproduces recorded visuals rather than recovering the original application.
+
+See [REFERENCE.md](REFERENCE.md) for fidelity and provenance details. The earlier independently modelled prototype remains at [independent-study.html](independent-study.html). Its Three.js library and credited stock photograph are retained for that route.
 
 ## Run
 
-Serve this folder over HTTP, for example `python3 -m http.server 8000`, then open localhost:8000. No build or package installation is needed. GitHub Pages serves the repository root.
+Serve the repository root over HTTP (`python3 -m http.server 8000`) or use GitHub Pages from main/root. No build, package installation, backend or API keys are needed.
 
-## Reference and authorship
+## Rights
 
-Inspired by https://www.facebook.com/reel/1441081254434227. This is independently written code and artwork, not the creator's source or an exact reproduction. See CREDITS.md for asset provenance and licences. The design remains a concept; any product/venue is fictional.
-
-## Rendering
-
-Three.js is vendored for reliable static hosting. WebGL and the SVG fallback implement the same chapter progression using separate authored scene components. The renderer uses device pixel ratio capped at 2 for performance; this does not claim that all source images are native 4K.
-
-The no-GPU composition also uses credited high-resolution photography, with independently animated clipped layers for garment/food studies. This fallback is a photographic composition rather than real-time 3D.
+Reference imagery and displayed brands remain the work of their respective creators. No ownership or asset-reuse licence is asserted for the reference imagery. Third-party library and stock-photo licences apply to the earlier independent route; see CREDITS.md and ASSETS.json.

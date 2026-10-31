@@ -1,0 +1,33 @@
+{
+  "title": "Immersive agency \u2014 reference study",
+  "creator": "Jerry the Web Dev",
+  "source": "https://www.facebook.com/reel/1441081254434227",
+  "width": 480,
+  "height": 270,
+  "cols": 8,
+  "frames": 48,
+  "chapters": [
+    {
+      "progress": 0,
+      "label": "Opening"
+    },
+    {
+      "progress": 0.2,
+      "label": "Consulting / coding / design"
+    },
+    {
+      "progress": 0.42,
+      "label": "The landscape"
+    },
+    {
+      "progress": 0.68,
+      "label": "Reality"
+    },
+    {
+      "progress": 0.9,
+      "label": "Vision"
+    }
+  ],
+  "mode": "frames",
+  "limitation": "The source records a screen. Cropping, perspective, motion blur and clipped page edges remain. This reproduces recorded visuals rather than recovering the original application."
+}

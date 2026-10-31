@@ -1,9 +1,15 @@
 # Credits
 
-- Original scene geometry, SVG illustration, interface and choreography: this project, created for TripBhai.
+## Main reference reconstruction
+
+- Reference creator: Jerry the Web Dev
+- Source: https://www.facebook.com/reel/1441081254434227
+- Main visual content: recorded reference imagery, attributable to the original creator/brand; no ownership or reuse licence asserted.
+- Viewer implementation: scroll-controlled frame/video navigation built for this reference study. It is not the original source application.
+- Only cropped website content is included; social account details, presenter footage and browser chrome are excluded.
+
+## Earlier independent-study.html
+
+- Original SVG and 3D scene code were independently created for the earlier prototype.
 - Three.js: Three.js authors, MIT; see THREE-LICENSE.txt.
-- Reference links are inspiration only. No video frames, purchased template code, logos or models were extracted from the reels.
-
-## Photography
-
-The detail photograph is a freely licensed Unsplash alternative. Its full author, source page and licence are recorded in ASSETS.json (entry purple). Photography is illustrative and does not show a real product or venue associated with this concept.
+- Detail photograph: free Unsplash photo; source, author and licence recorded in ASSETS.json. These photo/library licences do not apply to reference imagery.
